@@ -19,3 +19,5 @@ Nearest locations to Shivalik Museum.
 * Dalhousie
 * Kullu
 * Kufri
+
+[About Me](https://github.com/TulasiBodduluri/assignment2-Bodduluri/blob/main/AboutMe.md)
