@@ -41,3 +41,22 @@ The following table contains few of my favourite places in some cities to visit 
 
 > “A room without books is like a body without a soul.”
 ― *Marcus Tullius Cicero*
+
+---
+
+### Code Fencing
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+console.log(strippedString);
+
+```
+link to code snippet of js <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
+
+> How do I sort event dates under correct date table - column in javascript?
+
+link to article on stack overflow <https://stackoverflow.com/questions/tagged/javascript>
