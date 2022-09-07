@@ -38,5 +38,6 @@ The following table contains few of my favourite places in some cities to visit 
 #### Pithy Quotes
 > “Be yourself; everyone else is already taken.”
 ― *Oscar Wilde*
+
 > “A room without books is like a body without a soul.”
 ― *Marcus Tullius Cicero*
