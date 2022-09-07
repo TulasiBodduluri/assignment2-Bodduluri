@@ -32,3 +32,11 @@ The following table contains few of my favourite places in some cities to visit 
 | Vijayawada| PVP      | 2 hours       |
 | Chirala   | Beach    | 4 hours       |
 | Agra      | Taj mahal| 3 hours       |
+
+---
+
+#### Pithy Quotes
+> “Be yourself; everyone else is already taken.”
+― *Oscar Wilde*
+> “A room without books is like a body without a soul.”
+― *Marcus Tullius Cicero*
