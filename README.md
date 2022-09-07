@@ -21,3 +21,14 @@ Nearest locations to Shivalik Museum.
 * Kufri
 
 [About Me](https://github.com/TulasiBodduluri/assignment2-Bodduluri/blob/main/AboutMe.md)
+
+---
+
+The following table contains few of my favourite places in some cities to visit and spend time at those places.
+
+| City_Name | Location | Time_to_Spend |
+| ---       | ---      | ---           |
+| Guntur    | Hailand  | 6 hours       |
+| Vijayawada| PVP      | 2 hours       |
+| Chirala   | Beach    | 4 hours       |
+| Agra      | Taj mahal| 3 hours       |
